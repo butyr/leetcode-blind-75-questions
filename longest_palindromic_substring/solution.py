@@ -21,13 +21,6 @@ class Solution:
 
     def get_palindrome_substring(self, s: str, idx: int) -> str:
         curr_idx_left, curr_idx_right = self.get_idxs_around_center(s, idx)
-
-        while curr_idx_left - 1 >= 0 and s[curr_idx_left - 1] == s[idx]:
-            curr_idx_left -= 1
-
-        while curr_idx_right + 1 < len(s) and s[curr_idx_right + 1] == s[idx]:
-            curr_idx_right += 1
-
         curr_substring = ""
 
         while curr_idx_left >= 0 and curr_idx_right < len(s):
