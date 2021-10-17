@@ -1,5 +1,8 @@
 """
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+Runtime: 44 ms, faster than 99.06% of Python3 online submissions for Longest Substring Without Repeating Characters.
+Memory Usage: 14.4 MB, less than 24.45% of Python3 online submissions for Longest Substring Without Repeating Characters.
 """
 
 

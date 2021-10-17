@@ -1,5 +1,8 @@
 """
 https://leetcode.com/problems/product-of-array-except-self/
+
+Runtime: 220 ms, faster than 98.82% of Python3 online submissions for Product of Array Except Self.
+Memory Usage: 21.3 MB, less than 42.61% of Python3 online submissions for Product of Array Except Self.
 """
 
 
