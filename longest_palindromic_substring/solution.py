@@ -11,7 +11,7 @@ class Solution:
         max_len = 0
         max_palindrome = ""
 
-        for i, _ in enumerate(s):
+        for i in range(len(s)):
             curr_substring = self.get_palindrome_substring(s, i)
             if len(curr_substring) > max_len:
                 max_len = len(curr_substring)
