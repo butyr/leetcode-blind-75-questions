@@ -40,6 +40,7 @@ class Solution:
         Computes the starting indices around the palindrome center.
         Sometimes the center is not just a single character.
         For that case the indices need to be adjusted.
+
         :param s:
         :param idx:
         :return:
