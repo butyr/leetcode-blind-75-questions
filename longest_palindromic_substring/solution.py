@@ -52,10 +52,16 @@ class Solution:
         curr_idx_left = idx
         curr_idx_right = idx
 
-        while curr_idx_left - 1 >= 0 and input_string[curr_idx_left - 1] == input_string[idx]:
+        while (
+            curr_idx_left - 1 >= 0
+            and input_string[curr_idx_left - 1] == input_string[idx]
+        ):
             curr_idx_left -= 1
 
-        while curr_idx_right + 1 < len(input_string) and input_string[curr_idx_right + 1] == input_string[idx]:
+        while (
+            curr_idx_right + 1 < len(input_string)
+            and input_string[curr_idx_right + 1] == input_string[idx]
+        ):
             curr_idx_right += 1
 
         return curr_idx_left, curr_idx_right
