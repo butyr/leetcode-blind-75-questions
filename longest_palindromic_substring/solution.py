@@ -25,7 +25,7 @@ class Solution:
 
         while curr_idx_left >= 0 and curr_idx_right < len(s):
             if s[curr_idx_left] == s[curr_idx_right]:
-                curr_substring = s[curr_idx_left : curr_idx_right + 1]
+                curr_substring = s[curr_idx_left: curr_idx_right + 1]
             else:
                 break
 
