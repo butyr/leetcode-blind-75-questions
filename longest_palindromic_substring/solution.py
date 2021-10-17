@@ -37,8 +37,9 @@ class Solution:
     @staticmethod
     def get_idxs_around_center(s: str, idx: int) -> Tuple[int, int]:
         """
-        Sometimes the center of the palindrome is not only one character.
-        For that case the starting indices need to be adjusted.
+        Computes the starting indices around the palindrome center.
+        Sometimes the center is not just a single character.
+        For that case the indices need to be adjusted.
         :param s:
         :param idx:
         :return:
