@@ -38,7 +38,7 @@ class Solution:
     def get_idxs_around_center(s: str, idx: int) -> Tuple[int, int]:
         """
         Sometimes the center of the palindrome is not only one character.
-        For that case we need to adjust the starting indices.
+        For that case the starting indices need to be adjusted.
         :param s:
         :param idx:
         :return:
