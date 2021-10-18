@@ -9,11 +9,19 @@ from typing import List
 class Solution:
     @staticmethod
     def max_product(nums: List[int]) -> int:
-        curr_prod = nums[0]
-        max_prod = curr_prod
+        curr_min_prod = nums[0]
+        curr_max_prod = nums[0]
+        total_max_prod = max(nums)
 
         for num in nums[1:]:
-            curr_prod = max(curr_prod * num, num)
-            max_prod = max(max_prod, curr_prod)
+            if num == 0:
+                curr_min_prod, curr_max_prod = 1, 1
 
-        return max_prod
+            else:
+                last_min_prod = curr_min_prod
+                curr_min_prod = min(curr_min_prod * num, curr_max_prod * num, num)
+                curr_max_prod = max(curr_max_prod * num, last_min_prod * num, num)
+
+                total_max_prod = max(total_max_prod, curr_max_prod)
+
+        return total_max_prod

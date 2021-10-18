@@ -8,6 +8,7 @@ from .solution import Solution
         ([2, 3, -2, 4], 6),
         ([-2, 2, 3, 4], 24),
         ([-2, 2, 3, 4, -1], 48),
+        ([-2, 2, 0, 4, -1], 4),
     ]
 )
 def test_solution(inputs, expected):
