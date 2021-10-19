@@ -13,10 +13,7 @@ class Solution:
         max_profit = 0
 
         for curr_price in prices[1:]:
-            if curr_price - start_price > max_profit:
-                max_profit = curr_price - start_price
-
-            if curr_price < start_price:
-                start_price = curr_price
+            max_profit = max(max_profit, curr_price - start_price)
+            start_price = min(start_price, curr_price)
 
         return max_profit
