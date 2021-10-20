@@ -9,16 +9,16 @@ from typing import List
 class Solution:
     @staticmethod
     def two_sum(numbers: List[int], target: int) -> List[int]:
-        left_idx = 0
-        right_idx = len(numbers) - 1
-        while left_idx < right_idx:
-            if target - numbers[left_idx] == numbers[right_idx]:
-                return [left_idx + 1, right_idx + 1]
+        low = 0
+        high = len(numbers) - 1
+        while low < high:
+            if target - numbers[low] == numbers[high]:
+                return [low + 1, high + 1]
 
-            elif target - numbers[left_idx] > numbers[right_idx]:
-                left_idx += 1
+            if target - numbers[low] > numbers[high]:
+                low += 1
 
             else:
-                right_idx -= 1
+                high -= 1
 
         return [-1, -1]
