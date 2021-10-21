@@ -17,7 +17,6 @@ class Solution:
 
             if target - numbers[low] > numbers[high]:
                 low += 1
-
             else:
                 high -= 1
 
