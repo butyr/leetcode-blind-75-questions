@@ -30,7 +30,6 @@ class Solution:
                 low += 1
             elif nums[low] + nums[high] > target:
                 high -= 1
-
             else:
                 if [nums[idx], nums[low], nums[high]] not in results:
                     results.append([nums[idx], nums[low], nums[high]])
