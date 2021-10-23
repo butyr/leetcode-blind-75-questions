@@ -1,5 +1,9 @@
 """
 https://leetcode.com/problems/3sum/
+
+Builds on:
+https://leetcode.com/problems/two-sum/
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 """
 
 
