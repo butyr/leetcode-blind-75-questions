@@ -1,5 +1,7 @@
 """
 https://leetcode.com/problems/set-matrix-zeroes/
+
+Difficulty: Medium
 """
 
 
@@ -19,8 +21,7 @@ class Solution:
         for row in range(len(matrix)):
             for col in range(len(matrix[0])):
                 if matrix[row][col] == 0:
-                    zero_rows[row] = True
-                    zero_cols[col] = True
+                    zero_rows[row], zero_cols[col] = True, True
 
         for row in range(len(matrix)):
             for col in range(len(matrix[0])):

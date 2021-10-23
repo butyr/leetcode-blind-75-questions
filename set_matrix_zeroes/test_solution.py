@@ -11,4 +11,4 @@ def test_solution(inputs, expected):
 
     sut.set_zeroes(inputs)
 
-    assert inputs == expected and False
+    assert inputs == expected

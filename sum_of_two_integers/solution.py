@@ -1,6 +1,9 @@
 """
 https://leetcode.com/problems/sum-of-two-integers/
+
+Difficulty: Medium
 """
+
 from math import log
 from math import exp
 
