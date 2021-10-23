@@ -53,7 +53,7 @@ Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/dis
 * Remove Nth Node From End Of List
 * Reorder List
 ### Matrix
-* Set Matrix Zeroes
+* [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) [solved]
 * Spiral Matrix
 * Rotate Image
 * Word Search
