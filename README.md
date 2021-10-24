@@ -57,12 +57,12 @@ Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/dis
 * Spiral Matrix
 * Rotate Image
 * Word Search
-### String (4/10)
+### String (6/10)
 * [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [solved]
 * [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 * [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-* [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-* [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+* [Valid Anagram](https://leetcode.com/problems/valid-anagram/) [solved]
+* [Group Anagrams](https://leetcode.com/problems/group-anagrams/) [solved]
 * [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [solved]
 * [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) [solved]
 * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) [solved]
