@@ -6,19 +6,15 @@ Difficulty: Medium
 
 
 from typing import List
+from collections import defaultdict
 
 
 class Solution:
     @staticmethod
     def group_anagram(strs: List[str]) -> List[List[str]]:
-        anagrams = {}
+        anagrams = defaultdict(list)
 
         for s in strs:
-            key = "".join(sorted(s))
-
-            if key in anagrams:
-                anagrams[key].append(s)
-            else:
-                anagrams[key] = [s]
+            anagrams["".join(sorted(s))].append(s)
 
         return list(anagrams.values())
