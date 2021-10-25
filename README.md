@@ -19,7 +19,7 @@ Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/dis
 * [Missing Number](https://leetcode.com/problems/missing-number/)
 * [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 ### Dynamic Programming (0/11)
-* Climbing Stairs
+* Climbing Stairs [solved]
 * Coin Change
 * Longest Increasing Subsequence
 * Longest Common Subsequence
