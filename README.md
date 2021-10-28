@@ -18,18 +18,18 @@ Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/dis
 * [Counting Bits](https://leetcode.com/problems/counting-bits/)
 * [Missing Number](https://leetcode.com/problems/missing-number/)
 * [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-### Dynamic Programming (0/11)
-* Climbing Stairs [solved]
-* Coin Change
-* Longest Increasing Subsequence
-* Longest Common Subsequence
-* Word Break Problem
-* Combination Sum
-* House Robber
-* House Robber II
-* Decode Ways
-* Unique Paths
-* Jump Game
+### Dynamic Programming (2/11)
+* [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [solved]
+* [Coin Change](https://leetcode.com/problems/coin-change/) [solved]
+* [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+* [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+* [Word Break Problem](https://leetcode.com/problems/word-break/)
+* [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
+* [House Robber](https://leetcode.com/problems/house-robber/)
+* [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+* [Decode Ways](https://leetcode.com/problems/decode-ways/)
+* [Unique Paths](https://leetcode.com/problems/unique-paths/)
+* [Jump Game](https://leetcode.com/problems/jump-game/)
 ### Graph (0/8)
 * Clone Graph
 * Course Schedule
