@@ -18,7 +18,7 @@ Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/dis
 * [Counting Bits](https://leetcode.com/problems/counting-bits/)
 * [Missing Number](https://leetcode.com/problems/missing-number/)
 * [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-### Dynamic Programming (2/11)
+### Dynamic Programming (3/11)
 * [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [solved]
 * [Coin Change](https://leetcode.com/problems/coin-change/) [solved]
 * [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
