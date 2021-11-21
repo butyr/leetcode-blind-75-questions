@@ -29,7 +29,7 @@ Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/dis
 * [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 * [Decode Ways](https://leetcode.com/problems/decode-ways/)
 * [Unique Paths](https://leetcode.com/problems/unique-paths/)
-* [Jump Game](https://leetcode.com/problems/jump-game/)
+* [Jump Game](https://leetcode.com/problems/jump-game/) [solved]
 ### Graph (0/8)
 * Clone Graph
 * Course Schedule
