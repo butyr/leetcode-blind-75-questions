@@ -3,15 +3,15 @@ from .solution import Solution
 
 
 @pytest.mark.parametrize(
-    "inputs,target, expected",
+    "inputs, expected",
     [
-        ([4, 5, 6, 7, 0, 1, 2], 0, 4),
-        ([4, 5, 6, 7, 0, 1, 2], 3, -1),
+        ([3, 4, 5, 1, 2], 1),
+        ([4, 5, 6, 7, 0, 1, 2], 0),
     ],
 )
-def test_solution(inputs, target, expected):
+def test_solution(inputs, expected):
     sut = Solution()
 
-    actual = sut.search(inputs, target)
+    actual = sut.findMin(inputs)
 
     assert actual == expected
