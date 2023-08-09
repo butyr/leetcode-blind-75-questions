@@ -1,7 +1,7 @@
 # leetcode-blind-75-questions
 Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-### Array (9/10)
+### Array (10/10)
 * [Two Sum](https://leetcode.com/problems/two-sum/) [solved]
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [solved]
 * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [solved]
@@ -11,7 +11,7 @@ Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/dis
 * [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [solved]
 * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [solved]
 * [3 Sum](https://leetcode.com/problems/3sum/) [solved]
-* [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+* [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [solved]
 ### Binary (1/5)
 * [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 * [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) [solved]
