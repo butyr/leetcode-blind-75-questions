@@ -9,7 +9,7 @@ Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/dis
 * [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [solved]
 * [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) [solved]
 * [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [solved]
-* [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+* [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [solved]
 * [3 Sum](https://leetcode.com/problems/3sum/) [solved]
 * [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 ### Binary (1/5)
