@@ -40,7 +40,7 @@ Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/dis
 * Graph Valid Tree (Leetcode Premium)
 * Number of Connected Components in an Undirected Graph (Leetcode Premium)
 ### Interval (0/5)
-* Insert Interval
+* [Insert Interval](https://leetcode.com/problems/insert-interval) [solved]
 * Merge Intervals
 * Non-overlapping Intervals
 * Meeting Rooms (Leetcode Premium)
