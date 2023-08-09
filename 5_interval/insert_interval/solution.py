@@ -1,7 +1,7 @@
 """
 https://leetcode.com/problems/insert-interval
 
-Difficulty: Easy
+Difficulty: Medium
 """
 
 

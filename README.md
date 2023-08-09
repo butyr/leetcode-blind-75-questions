@@ -39,9 +39,9 @@ Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/dis
 * Alien Dictionary (Leetcode Premium)
 * Graph Valid Tree (Leetcode Premium)
 * Number of Connected Components in an Undirected Graph (Leetcode Premium)
-### Interval (0/5)
+### Interval (2/5)
 * [Insert Interval](https://leetcode.com/problems/insert-interval) [solved]
-* Merge Intervals
+* [Merge Intervals](https://leetcode.com/problems/merge-intervals) [solved]
 * Non-overlapping Intervals
 * Meeting Rooms (Leetcode Premium)
 * Meeting Rooms II (Leetcode Premium)
