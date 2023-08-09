@@ -1,7 +1,7 @@
 # leetcode-blind-75-questions
 Solutions for the [Blind 75 Must Do Leetcode questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-### Array (7/10)
+### Array (9/10)
 * [Two Sum](https://leetcode.com/problems/two-sum/) [solved]
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [solved]
 * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [solved]
